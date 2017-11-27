@@ -1,7 +1,6 @@
 # Dockerfile for XMM 
 
-A Dockerfile to run XMM bot in daemon mode. 
-Requires [ripple-lib-java](https://github.com/ripple/ripple-lib-java )
+A Dockerfile to run [XMM bot](https://github.com/codedot/xmm).
 
 ## Setup
 
