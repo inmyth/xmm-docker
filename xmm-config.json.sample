@@ -1,0 +1,17 @@
+{
+    "yes": true,
+    "maxfee": 0.01,
+    "cushion": 1.5,
+    "delta": 0.001,
+    "wallets": {
+        "mrr": {
+            "address":"rB3gZey7VWHYRqJHLoHDEJXJ2pEPNieKiS"
+        },
+        "fund": {
+            "address": "WALLET_ADDRESS",
+            "secret": "SECRET_KEY"
+        }
+    },
+    "hedge": ["*"],
+    "server": "wss://rippled.mr.exchange"
+}
